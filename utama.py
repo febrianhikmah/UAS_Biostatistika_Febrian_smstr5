@@ -7,7 +7,7 @@ st.write('**Dosen Pengampu:** Bapak Alwan Fadlurohman, S.Stat., M.Stat ')
 st.write('**Nama :** Febrian Hikmah Nur Rohim')
 st.write('**Nim :** B2D023016')
 st.write('**S1 Sains Data** - Universitas Muhammadiyah Semarang')
-st.write('**Semarang, 26 Desember 2025**')
+st.write('**Semarang, 01 Januari 2026**')
 st.markdown(r"""
             Dalam aplikasi ini, menu yang ditampilkan terdiri dari: **(1) About Dataset, (2) Dashboards, (3) Preprocessing, (4) Machine Learning, (5) Inferensi Statistika, (6) Pembelajaran Model, (7) Prediction App, dan (8) Contact Me**
             
