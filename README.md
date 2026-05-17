@@ -1,5 +1,7 @@
 # Klasifikasi Penyakit Batu Empedu Menggunakan Regresi Logistik Biner
 
+**Live App:** https://uasbiostatistikafebriansmstr-5.streamlit.app/
+
 Project ini merupakan aplikasi analisis data berbasis Streamlit untuk klasifikasi penyakit batu empedu menggunakan metode regresi logistik biner. Aplikasi ini dibuat sebagai project Data Analysis/Biostatistika dengan alur analisis mulai dari pemahaman dataset, preprocessing, exploratory data analysis, inferensi statistika, machine learning, hingga aplikasi prediksi risiko pasien.
 
 ## Identitas Project
