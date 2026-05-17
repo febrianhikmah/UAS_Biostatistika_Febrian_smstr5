@@ -49,20 +49,20 @@ Project ini mencakup tahapan berikut:
 
 ```text
 .
-|-- utama.py                                      # File utama aplikasi Streamlit
-|-- tentang_data.py                              # Halaman penjelasan dataset
-|-- pembelajaran_model.py                        # Tinjauan pustaka regresi logistik
-|-- Preprocessing.py                             # Tahapan preprocessing data
-|-- visulisasi_uas.py                            # Dashboard dan EDA
-|-- Inferensi_Statistika.py                      # Inferensi statistika regresi logistik
-|-- ML_uas.py                                    # Training dan evaluasi model ML
-|-- prediksi.py                                  # Aplikasi prediksi risiko pasien
-|-- gua.py                                       # Halaman kontak
-|-- data kesehatan2.xlsx                         # Dataset awal
-|-- data_kesehatan2_preprocessed.xlsx            # Dataset hasil preprocessing
-|-- logistic_regression_gallstone.pkl            # Model tanpa preprocessing
-|-- logistic_regression_gallstone_yes_proicecing.pkl # Model dengan preprocessing
-`-- requirements.txt                             # Daftar dependensi Python
+|-- utama.py                                          # File utama aplikasi Streamlit
+|-- tentang_data.py                                   # Halaman penjelasan dataset
+|-- pembelajaran_model.py                             # Tinjauan pustaka regresi logistik
+|-- Preprocessing.py                                  # Tahapan preprocessing data
+|-- visulisasi_uas.py                                 # Dashboard dan EDA
+|-- Inferensi_Statistika.py                           # Inferensi statistika regresi logistik
+|-- ML_uas.py                                         # Training dan evaluasi model ML
+|-- prediksi.py                                       # Aplikasi prediksi risiko pasien
+|-- gua.py                                            # Halaman kontak
+|-- data kesehatan2.xlsx                              # Dataset awal
+|-- data_kesehatan2_preprocessed.xlsx                 # Dataset hasil preprocessing
+|-- logistic_regression_gallstone.pkl                 # Model tanpa preprocessing
+|-- logistic_regression_gallstone_yes_proicecing.pkl  # Model dengan preprocessing
+`-- requirements.txt                                  # Daftar dependensi Python
 ```
 
 ## Instalasi
